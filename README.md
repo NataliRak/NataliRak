@@ -42,16 +42,20 @@
 
 
 <br />
-
-<details><summary> Statistics:</summary>
-  
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliRak&show_icons=true&theme=radical)
+<br />
 
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliRak&layout=compact)]
+### Statictics:
+<br />
 
-</details>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliRak&show_icons=true&theme=radical)
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliRak&layout=compact)
+
+
 
 
 
