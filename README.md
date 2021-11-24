@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Nataliya Rak
+![](https://komarev.com/ghpvc/?username=NataliRak)
 
 
 ## I'm FrontEnd Developer
@@ -7,6 +8,8 @@
 - ⚡ I love sport: volleyball, snowboarding;  camping, snapling, traveling, fishing and play the guitar!
 - 😄 I’m constantly learning new things
 - 💬 Ask me about ...
+
+<br />
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML&logoColor=47C5FB)
@@ -17,11 +20,18 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor)
 ![JQuery](https://img.shields.io/badge/-JQuery-090909?style=for-the-badge&logo=JQuery&logoColor)
 
+<br />
+
 ### Contact Me
 
-<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />     
-<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
+
+[linkedin]: https://www.linkedin.com/in/natali-rak-405712195/
+[instagram]: https://www.instagram.com/nataliya__kuharskaya/?hl=ru
+[vk]: https://vk.com/id8249682
 
 <br />
 
@@ -35,9 +45,6 @@
 </details>
 
 
-[linkedin]: https://www.linkedin.com/in/natali-rak-405712195/
-[instagram]: https://www.instagram.com/nataliya__kuharskaya/?hl=ru
-[vk]: https://vk.com/id8249682
 
 
 
