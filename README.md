@@ -3,7 +3,7 @@
 
 ## I'm FrontEnd Developer
 
-- 🔭 I love write code
+- 💪 I love write code
 - ⚡ I love sport: volleyball, snowboarding;  camping, snapling, traveling, fishing and play the guitar!
 - 😄 I’m constantly learning new things
 - 💬 Ask me about ...
@@ -18,7 +18,28 @@
 ![JQuery](https://img.shields.io/badge/-JQuery-090909?style=for-the-badge&logo=JQuery&logoColor)
 
 ### Contact Me
-![Instagram](https://img.shields.io/badge/-instagram-FFDC80?style=for-the-badge&logo=instagram&logoColor)
+
+<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />     
+<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+
+<br />
+
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliRak
+&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NataliRak
+&show_icons=true" />
+</details>
+
+
+[linkedin]: https://www.linkedin.com/in/natali-rak-405712195/
+[instagram]: https://www.instagram.com/nataliya__kuharskaya/?hl=ru
+[vk]: https://vk.com/id8249682
+
+
 
 
 
