@@ -43,13 +43,14 @@
 
 <br />
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliRak
-&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NataliRak
-&show_icons=true" />
+<details><summary> Statistics:</summary>
+  
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliRak&show_icons=true&theme=radical)
+
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliRak&layout=compact)]
+
 </details>
 
 
