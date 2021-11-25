@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Nataliya Rak
 ![](https://komarev.com/ghpvc/?username=NataliRak)
+![download (2)](https://user-images.githubusercontent.com/64411166/143388886-057b0857-9c8f-4b37-9461-5cf0b2801a87.gif)
 
-![download (1)](https://user-images.githubusercontent.com/64411166/143388732-b99548a6-44c0-43eb-859e-9631afb5578a.gif)
 
 ## I'm FrontEnd Developer
 
