@@ -28,12 +28,12 @@
 
 ### Contact Me
 
-[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">][linkedin]
+[<img align="left" alt="NataliRak | Instagram" width="22px" src=https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png>][instagram]
+[<img align="left" alt="NataliRak| facrbook" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1637931803~hmac=5ec5af75843e66a8def5e06930ab5141" />][facebook]
+[<img align="left" alt="NataliRak | telegram" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1637931893~hmac=af60aeee063cb54e8b7eb8f684400471" />][telegram]
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504926.png?token=exp=1637931964~hmac=87ca60b306048ff17f9e02c670a84479" />][massenger]
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1637932003~hmac=28dfe035d6d03cd8b5a7d9d7cfa5847c" />][gmail]
 
 
 
@@ -41,7 +41,7 @@
 [instagram]: https://www.instagram.com/nataliya__kuharskaya/?hl=ru
 [facebook]: https://www.facebook.com/nataliya.kuharskaya/
 [telegram]: https://t.me/NataliRak
-[whatsapp]: https://t.me/NataliRak
+[massenger]: https://www.facebook.com/nataliya.kuharskaya
 [gmail]: natali.rak911@gmail.com
 
 
