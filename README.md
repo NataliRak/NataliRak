@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Nataliya Rak
 ![](https://komarev.com/ghpvc/?username=NataliRak)
 
-![download](https://drive.google.com/file/d/1rCQKXaxBN5Olk1lYv-JTgujBE1cJtbsi/view?usp=sharing)
+![download](https://github.com/NataliRak/project/blob/master/download%20(5).gif)
 
 
 
