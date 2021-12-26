@@ -16,7 +16,7 @@
 <br />
 
 ### Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML&logoColor=47C5FB)
+<!-- ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML&logoColor=47C5FB)
 ![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS&logoColor)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor)
@@ -25,6 +25,14 @@
 ![JQuery](https://img.shields.io/badge/-JQuery-090909?style=for-the-badge&logo=JQuery&logoColor)
 
 <br />
+<div>
+  <h3>Languages and Tools</h3> -->
+  <p>
+   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="60"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60"> <img src="https://media.giphy.com/media/gHnBLyeYE6hboT3t3o/giphy.gif" width="60">
+  <p>
+</div> 
+  
+<br/>
 
 ### Contact Me
 
