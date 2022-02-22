@@ -37,20 +37,14 @@
 <br/>
 
 ### Contact Me
-[JQuery](https://img.shields.io/badge/-JQuery-090909?style=for-the-badge&logo=JQuery&logoColor)
-[gmail][https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]
-[massenger] (https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
-[telegram] (https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-[facebook] (https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-[instagram] (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-[linkedin] (	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<!-- [<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">][linkedin]
+
+ [<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">][linkedin]
 [<img align="left" alt="NataliRak | Instagram" width="22px" src=https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png>][instagram]
 [<img align="left" alt="NataliRak| facrbook" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1637931803~hmac=5ec5af75843e66a8def5e06930ab5141" />][facebook]
 [<img align="left" alt="NataliRak | telegram" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1637931893~hmac=af60aeee063cb54e8b7eb8f684400471" />][telegram]
 [<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504926.png?token=exp=1637931964~hmac=87ca60b306048ff17f9e02c670a84479" />][massenger]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1637932003~hmac=28dfe035d6d03cd8b5a7d9d7cfa5847c" />][gmail] -->
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1637932003~hmac=28dfe035d6d03cd8b5a7d9d7cfa5847c" />][gmail] 
 
 
 
