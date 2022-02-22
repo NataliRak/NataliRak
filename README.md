@@ -38,8 +38,8 @@
 
 ### Contact Me
 
-
- [<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">][linkedin]
+	[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white]
+ [<img align="left" alt="NataliRak | LinkedIn" width="33px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">][linkedin]
 [<img align="left" alt="NataliRak | Instagram" width="22px" src=https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png>][instagram]
 [<img align="left" alt="NataliRak| facrbook" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1637931803~hmac=5ec5af75843e66a8def5e06930ab5141" />][facebook]
 [<img align="left" alt="NataliRak | telegram" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1637931893~hmac=af60aeee063cb54e8b7eb8f684400471" />][telegram]
