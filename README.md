@@ -41,10 +41,10 @@
 	
  [<img align="left" alt="NataliRak | LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">][linkedin]
 [<img align="left" alt="NataliRak | Instagram" width="40px" src=https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png>][instagram]
-[<img align="left" alt="NataliRak| facrbook" width="40px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1637931803~hmac=5ec5af75843e66a8def5e06930ab5141" />][facebook]
-[<img align="left" alt="NataliRak | telegram" width="40px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1637931893~hmac=af60aeee063cb54e8b7eb8f684400471" />][telegram]
-[<img align="left" alt="NataliRak | VK" width="40px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504926.png?token=exp=1637931964~hmac=87ca60b306048ff17f9e02c670a84479" />][massenger]
-[<img align="left" alt="NataliRak | VK" width="40px" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1637932003~hmac=28dfe035d6d03cd8b5a7d9d7cfa5847c" />][gmail] 
+[<img align="left" alt="NataliRak| facrbook" width="40px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1645524349~hmac=aa4b8637c6cb41996acad3d3cf5f729c" />][facebook]
+[<img align="left" alt="NataliRak | telegram" width="40px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1645524388~hmac=f5e271df55a39f8a6ecdbf21abbcd9bb" />][telegram]
+[<img align="left" alt="NataliRak | VK" width="40px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504926.png?token=exp=1645524433~hmac=914fa857f0652e948b251c1fba066d15" />][massenger]
+[<img align="left" alt="NataliRak | VK" width="40px" src=https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1645524463~hmac=9fac8eefd6d18a5181ba0245a49575db" />][gmail] 
 
 
 
