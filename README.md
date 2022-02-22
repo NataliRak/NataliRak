@@ -37,7 +37,7 @@
 <br/>
 
 ### Contact Me
-
+[JQuery](https://img.shields.io/badge/-JQuery-090909?style=for-the-badge&logo=JQuery&logoColor)
 [gmail][https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]
 [massenger] (https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 [telegram] (https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
