@@ -44,7 +44,7 @@
 [<img align="left" alt="NataliRak| facrbook" width="40px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1645524349~hmac=aa4b8637c6cb41996acad3d3cf5f729c" />][facebook]
 [<img align="left" alt="NataliRak | telegram" width="40px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1645524388~hmac=f5e271df55a39f8a6ecdbf21abbcd9bb" />][telegram]
 [<img align="left" alt="NataliRak | VK" width="40px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504926.png?token=exp=1645524433~hmac=914fa857f0652e948b251c1fba066d15" />][massenger]
-[<img align="left" alt="NataliRak | VK" width="40px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1645524463~hmac=9fac8eefd6d18a5181ba0245a49575db" />][gmail] 
+[<img align="left" alt="NataliRak | VK" width="40px" src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png" />][gmail] 
 
 
 
